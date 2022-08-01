@@ -1,2 +1,2 @@
 # ncf-playground
-Testing NCF
+Testing the NCF library (https://github.com/microsoft/recommenders)
